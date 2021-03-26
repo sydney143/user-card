@@ -1,0 +1,66 @@
+
+.card{
+    height: 400px;
+    width: 700px;
+    background-color:white;
+    margin-left: 300px;
+    border: grey;
+margin: auto;
+}
+
+.top-bar{
+    background-color:pink;
+    height: 100px;
+    width:700px
+
+}
+
+.info{
+position: relative;
+left: 42px;
+bottom: -23px;
+}
+
+
+
+.profile{
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+h1 {
+
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+.location {
+    height: 20px;
+    width: 20px;}
+
+h2{
+ font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+} 
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif
+} 
+
+.setting{
+    height: 20px;
+    width: 20px;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.seatle{
+    color: black;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
